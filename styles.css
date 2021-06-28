@@ -8,15 +8,15 @@
   }
 
 header{
-    position: relative;
+    
     text-align: center;
     border-bottom: 5px solid rgb(112, 167, 240);
     border-radius: 10px;
-    width: fit-content;
+    width: 45%;
     height: 8%;
     background-color: rgb(223, 219, 219);
     padding: 2px 8px;
-    left: 25%;
+    margin: 15px auto;
 }
 
   body{
