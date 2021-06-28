@@ -89,20 +89,31 @@ h2{
 
 #bigshoulders{
     display: inline-block;
-    margin: 8px
+    margin: 8px;
+    font-family: 'Big Shoulders Stencil Display', cursive;
 }
 
 #raleway{
     display: inline-block;
-    margin: 8px
+    margin: 8px;
+    font-family: 'Raleway', sans-serif;
 }
 
 #yellowtail{
     display: inline-block;
-    margin: 8px
+    margin: 8px;
+    font-family: 'Yellowtail', cursive;
 }
 
 .fontName{
     font-size: 30px;
     border-bottom:2px solid rgb(112, 167, 240);
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
 }
